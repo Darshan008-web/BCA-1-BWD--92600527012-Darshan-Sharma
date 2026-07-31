@@ -1,0 +1,181 @@
+Defination 1
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="img.webp"alt="img.webp"height="100px"width="100px">
+</body>
+</html>
+
+Defination 2
+code=<!-- 2 Create a web page with appropriate
+content and insert an image towards the left hand
+side of the page when user clicks on the image, it
+should open another web page. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content</title>
+</head>
+<body align="center">
+    <span class="left" align="left">
+        <a href="pr01.html">
+            <img src="img.webp"align="left" alt="" height="100px" width="75px">
+        </a>
+    </span>
+    <span class="right" align="right">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ratione incidunt nobis iste praesentium neque, dicta qui dolorem odio beatae, quod ipsum assumenda. Molestiae natus atque ducimus incidunt aspernatur sit recusandae ipsa non asperiores quaerat!
+    </span>
+</body>
+</html>
+
+
+Defination 3
+code=<!-- 3  Create a web page
+showing an ordered list of names of the subjects,
+with nested list if any subject has been selected it
+should display the content of each subject. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subjects</title>
+</head>
+<body>
+    <ol>
+        <li>
+            <a href="BWD.html">Basics Of Web Development</a>
+        </li>
+        <li>
+           <a href="pp1.html" >Programming Practices 1 - C Programming</a>
+           
+        </li>
+        <li>
+           <a href="es.html">Environmental Science</a>
+        
+        </li>
+        <li>
+           <a href="aod.html"> Architectural Organization Of Computers</a>
+           
+        </li>
+        <li>
+           <a href="maths.html"> Basic Mathematics-1</a>
+           
+        </li>
+    </ol>
+</body>
+</html>
+
+
+BWD
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol>
+        <ul>
+    <li>HTML (Hyper Text Markup Language) </li>
+                <li>CSS (Cascading Style Sheets) </li>
+                <li>JavaScript </li>
+                <li>PHP</li>
+                
+        </ul>
+            </ol>
+</body>
+</html>
+
+
+
+Aod
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Number Systems (Binary and Decimal) </li>
+        <li>Logic Gates</li>
+    </ul>
+</body>
+</html>
+
+
+
+
+
+Maths
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Set Theory</li>
+        <li>Relations</li>
+        <li>Probablity</li>
+        <li>Algebra</li>
+        <li>Calculus</li>
+    </ul>
+</body>
+</html>
+
+
+
+ES
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Set Theory</li>
+        <li>Relations</li>
+        <li>Probablity</li>
+        <li>Algebra</li>
+        <li>Calculus</li>
+    </ul>
+</body>
+</html>
+
+
+
+PP1
+code=<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul>
+        <li>Set Theory</li>
+        <li>Relations</li>
+        <li>Probablity</li>
+        <li>Algebra</li>
+        <li>Calculus</li>
+    </ul>
+</body>
+</html>
