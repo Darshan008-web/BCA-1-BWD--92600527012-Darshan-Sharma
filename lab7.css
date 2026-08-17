@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(177, 125, 70);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header{
+    background-color:rgb(133, 80, 81) ;
+    border: solid rgb(225, 81, 81);
+    border-radius: 9px;
+    margin: 20px;
+    padding: 10px;
+}
+
+footer{
+    color: gray;
+    background-color: bisque;
+    text-align: end;
+}
